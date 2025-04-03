@@ -1,20 +1,19 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+name: 🚀 기능 제안
+about: 새로운 시스템 기능 제안
+title: "[FEATURE]: "
+labels: enhancement
+assignees: product-manager
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 💡 기능 개요
+<!-- 제안 기능의 핵심 가치 설명 -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 🎯 사용자 편익
+<!-- 최종 사용자가 얻을 이점 -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 🔄 대안 분석
+<!-- 기존 방식과의 차별성 -->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 🧩 연관 시스템
+<!-- 영향 받는 모듈/컴포넌트 목록 -->
