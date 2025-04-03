@@ -1,30 +1,25 @@
 ---
-name: Bug Report
-about: Report a bug to help us improve.
+name: 🐞 버그 리포트
+about: 시스템 오류 또는 예상치 못한 동작 보고
 title: "[BUG]: "
-labels: bug, needs-triage
-assignees: octocat
+labels: bug, high-priority
+assignees: dev-lead
 ---
 
-## Description
+## 🔍 문제 설명
+<!-- 명확한 현상 기술 -->
 
-Please describe the issue clearly.
+## 🛠️ 재현 절차
+1. 환경 설정 방법
+2. 재현을 위한 구체적 단계
+3. 발생 시점(특정 조건/시간대 등)
 
-## Steps to Reproduce
+## ✅ 기대 동작
+<!-- 정상 작동 시 예상 결과 -->
 
-1. Step one.
-2. Step two.
+## ❌ 실제 동작
+<!-- 관찰된 오류 결과 -->
 
-## Expected Behavior
-
-What should happen?
-
-## Actual Behavior
-
-What actually happened?
-
-## Environment
-
-- Version:
-- OS:
-- Browser:
+## 📌 첨부 자료
+- 스크린샷 또는 동영상 첨부
+- 로그 파일 스니펫
